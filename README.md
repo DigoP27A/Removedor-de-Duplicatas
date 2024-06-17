@@ -1,2 +1,3 @@
-# Removedor-de-Duplicatas
-Este código recebe um arquivo específico .csv e remove duplicatas de acordo com a coluna R 
+# Duplicate Filter for specific data structure>
+This program receives a specific .csv file and remove duplicates by analysing the DOIs
+
